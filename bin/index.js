@@ -4,7 +4,7 @@ const { init } = require('../lib/init');
 program.version(require('../package').version);
 
 program
-    .command('init </name>')
+    .command('init')
     .description('init project')
     .action(init);
 
