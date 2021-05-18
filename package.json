@@ -1,6 +1,6 @@
 {
   "name": "vue-auto-template-cli",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "快速生成vue项目",
   "main": "index.js",
   "bin": {

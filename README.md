@@ -3,7 +3,7 @@
 
 ```bash
 npm i -g vue-auto-template-cli 
-vue-template init --platform = "B" || vue-template init --platform = "C"
+vue-template init || vue-template init
 ```
 
 - 默认模版: 
